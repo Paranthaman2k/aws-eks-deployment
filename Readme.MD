@@ -1,4 +1,6 @@
 
+
+
 eks-cluster
 ├── main.tf               # Main configuration to call modules
 ├── variables.tf          # Define inputs for the root module
